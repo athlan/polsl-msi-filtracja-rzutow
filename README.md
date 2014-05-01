@@ -1,4 +1,4 @@
-polsl-msi-filtracja-rzutow
+Filtracja rzutów
 ==========================
 
-Filtracja rzutów. Medyczne Systemy Informacyjne - Politechnika Śląska.
+Program w ramach przedmiotu Medyczne Systemy Informacyjne na Politechnice Śląskiej.
